@@ -1,0 +1,11 @@
+h1 {
+    font-family: Big Shoulders Stencil;
+  }
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    font-family: MyFont, san-serif;
+    background: #f103b6;
+  }
