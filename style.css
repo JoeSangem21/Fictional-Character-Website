@@ -1,7 +1,7 @@
 h1 {
     font-family: Big Shoulders Stencil;
   }
-  html {
+  html{
     height: 100%;
     width: 100%;
   }
@@ -9,3 +9,24 @@ h1 {
     font-family: MyFont, san-serif;
     background: #f103b6;
   }
+  .big {
+    width: 600px;
+    border-style: solid;
+    border-color: #07eb25;
+    /* I used this to style my second class. */
+  }
+  .Mini {
+    width: 600px;
+    border-color: #07d8fd;
+    border-style: solid;
+    margin: 5px;
+    /* I used this to style my first class. */
+  }
+  #little {
+    width: 300px;
+    border-color: #fd0707;
+    border-style:inset
+    /* I used this to style my id. */
+
+  }
+ 
