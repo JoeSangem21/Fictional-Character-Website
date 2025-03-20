@@ -7,10 +7,10 @@ h1 {
   }
   body {
     font-family: MyFont, san-serif;
-    background: #f103b6;
+    background: #00aeff;
   }
   .big {
-    width: 600px;
+    width: 400px;
     border-style: solid;
     border-color: #07eb25;
     /* I used this to style my second class. */
@@ -20,13 +20,20 @@ h1 {
     border-color: #07d8fd;
     border-style: solid;
     margin: 5px;
+    display: inline-block;
+
     /* I used this to style my first class. */
   }
   #little {
     width: 300px;
     border-color: #fd0707;
     border-style:inset
+    display block;
     /* I used this to style my id. */
 
+  }
+
+  .bio {
+    width: 800px;
   }
  
